@@ -3,10 +3,9 @@
 # Indian E-Commerce Sales & Operational Fintech Analysis
 
 ## 📊 Project Overview
-	This project presents an end-to-end data analytics workflow on a multi-dimensional Indian e-commerce dataset containing 2,500 records 
-from January 2024 to December 2025. 
-	The dataset tracks 31 analytical dimensions including product categories, specialized discounting models, tax structures (GST), 
-digital payment frameworks, and complex regional fulfillment logistics across India.
+	This project presents an end-to-end data analytics workflow on a multi-dimensional Indian e-commerce dataset containing 2,500 records from January 2024 to December 2025. 
+	
+	The dataset tracks 31 analytical dimensions including product categories, specialized discounting models, tax structures (GST), digital payment frameworks, and complex regional fulfillment logistics across India.
 
 ### The Business Problem
 Modern e-commerce enterprises operating in India face complex ecosystem variables. 
@@ -127,16 +126,16 @@ GROUP BY delivery_partner
 ORDER BY avg_delivery_days;
 
 🚀 Data-Driven Strategic Recommendations
-Gateway Optimization: Given that UPI drives more than 45% of total platform revenue, protect transaction completion rates by establishing solid infrastructure 
+	Gateway Optimization: Given that UPI drives more than 45% of total platform revenue, protect transaction completion rates by establishing solid infrastructure 
 integrations with top-tier payment aggregators to remove checkout friction.
 
-Targeted Promotional Markdown Reform: Consumers aged 45–54 generate the platform's highest sales. Shift promotional budget structures away 
+	Targeted Promotional Markdown Reform: Consumers aged 45–54 generate the platform's highest sales. Shift promotional budget structures away 
 from blanket site campaigns and target this age cohort with tech-focused offerings.
 
-Fulfillment Partner SLA Realignment: Rely on the Logistical Scorecard data to re-negotiate contracts with delivery partners whose average 
+	Fulfillment Partner SLA Realignment: Rely on the Logistical Scorecard data to re-negotiate contracts with delivery partners whose average 
 fulfillment speeds fall below baseline target rates to eliminate shipping drag on consumer ratings.
 
-Mitigate Category Over-Dependency: Diversify the catalog portfolio to lessen the 53.53% dependency on Electronics by scaling up high-margin 
+	Mitigate Category Over-Dependency: Diversify the catalog portfolio to lessen the 53.53% dependency on Electronics by scaling up high-margin 
 accessories and fitness lines.
 
 ✍️ Author
