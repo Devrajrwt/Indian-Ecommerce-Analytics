@@ -182,26 +182,6 @@ Created a multi-page interactive dashboard including:
 
 ---
 
-# Dashboard Preview
-
-### Executive Overview
-
-(Add Screenshot)
-
-### Sales & Product Performance
-
-(Add Screenshot)
-
-### Geography & Customer Analysis
-
-(Add Screenshot)
-
-### Operations & Trends
-
-(Add Screenshot)
-
----
-
 # Business Recommendations
 
 1. Reduce revenue dependency on Electronics by expanding high-margin categories.
@@ -225,6 +205,6 @@ Devraj Singh
 
 Aspiring Data Analyst
 
-GitHub: (Add GitHub Profile Link)
+GitHub:
 
-LinkedIn: (Add LinkedIn Profile Link)
+LinkedIn:
