@@ -25,7 +25,7 @@ and minimizing return/cancellation leakage. This project untangles these operati
 
 ---
 
-## 📂 Repository Structure
+##  Repository Structure
 
 ├── ecommerce_sales_clean_csv.csv                   # Production CSV transaction data (2,500 rows)
 ├── ecommerce_sales_clean_excel_pivot.xlsx          # Diagnostic Pivot Tables & baseline aggregations
