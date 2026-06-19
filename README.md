@@ -27,16 +27,16 @@ and minimizing return/cancellation leakage. This project untangles these operati
 
 ##  Repository Structure
 
-├── ecommerce_sales_clean_csv.csv                   # Production CSV transaction data (2,500 rows)
-├── ecommerce_sales_clean_excel_pivot.xlsx          # Diagnostic Pivot Tables & baseline aggregations
-├── E_Commerce_SQL_Analysis_M.sql                   # Corporate business queries & database staging schema
-├── E_Commerce_EDA_&_Visualizations_M.ipynb         # Jupyter notebook detailing statistical Exploratory Analysis
-├── Interactive Dashboards/
-│   ├── 01 Executive Overview.jpg                   # Strategic financial macro-KPI view
-│   ├── 02 Sales and Product Performance.jpg        # Granular inventory P&L and coupon code matrix
-│   ├── 03 Geography & Customer Analysis.jpg        # Demographic spend & logistics partner scorecards
-│   └── 04 Operations & Trends.jpg                  # YoY growth velocities & predictive scatter models
-└── README.md                                       # Portfolio documentation landing page
+ecommerce_sales_clean_csv.csv                   # Production CSV transaction data (2,500 rows)
+ecommerce_sales_clean_excel_pivot.xlsx          # Diagnostic Pivot Tables & baseline aggregations
+E_Commerce_SQL_Analysis_M.sql                   # Corporate business queries & database staging schema
+E_Commerce_EDA_&_Visualizations_M.ipynb         # Jupyter notebook detailing statistical Exploratory Analysis
+Interactive Dashboards/
+ 01 Executive Overview.jpg                      # Strategic financial macro-KPI view
+ 02 Sales and Product Performance.jpg           # Granular inventory P&L and coupon code matrix
+ 03 Geography & Customer Analysis.jpg           # Demographic spend & logistics partner scorecards
+ 04 Operations & Trends.jpg                     # YoY growth velocities & predictive scatter models
+ README.md                                       # Portfolio documentation landing page
 
 📈 Power BI Production Dashboard (4-Page Executive Suite)
 1. Executive Financial Overview
