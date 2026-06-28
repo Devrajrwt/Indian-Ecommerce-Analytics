@@ -180,8 +180,6 @@ Created a multi-page interactive dashboard including:
 * Average delivery time: 3.52 days
 * Delivered order rate: 74.88%
 
----
-
 # Business Recommendations
 
 1. Reduce revenue dependency on Electronics by expanding high-margin categories.
@@ -190,14 +188,11 @@ Created a multi-page interactive dashboard including:
 4. Improve return management processes to reduce operational losses.
 5. Promote high-margin product categories through targeted campaigns.
 
----
-
 # Project Outcome
 
 This project demonstrates an end-to-end Data Analytics workflow including data preparation, SQL analysis, Python EDA, Power BI dashboard development, 
 DAX measures, and business storytelling.
 
----
 ✍️ Author
 DEVRAJ SINGH RAWAT
 Aspiring Data Analyst
